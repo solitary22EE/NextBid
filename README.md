@@ -1,2 +1,2 @@
-# Auction-Website
-MERN Stack Project
+# NextBid 
+MERN stack online auction website project
