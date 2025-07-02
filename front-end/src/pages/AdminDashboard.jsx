@@ -53,7 +53,6 @@ const AdminDashboard = () => {
 
   return (
 
-    
     <div className="admin-dashboard">
       <h2>Admin Dashboard - User Management</h2>
 
