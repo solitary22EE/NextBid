@@ -58,13 +58,17 @@ NextBid is a full-featured **MERN stack** online auction platform where users ca
    ```bash
    cd back-end
 2. Run the command:
-   '''bash
+   ```bash
    node --watch server.js
 
 ### Frontend
 
 1. Navigate to the frontend folder:
-    
+    ```bash
+    cd front-end
+2. Run the command:
+   ```bash
+   npm run dev
 
 
 
