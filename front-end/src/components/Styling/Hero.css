@@ -1,0 +1,31 @@
+.hero {
+  background: url(../../assets/front-templete.webp) no-repeat center center/cover;
+  min-height: 100vh; /* Full screen height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.hero-text {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+.btn-primary {
+  display: inline-block;
+  background-color: #2ca6d6;
+  padding: 12px 25px;
+  color: #333;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: #b9d4f7;
+}
