@@ -47,29 +47,6 @@ NextBid is a full-featured **MERN stack** online auction platform where users ca
 - Bids allowed only within auction period
 - Secure token-based bidding authentication
 
----
-
-## 🗂️ Project Structure
-Auction-Website/
-├── back-end/
-│ ├── controllers/
-│ ├── middleware/
-│ ├── models/
-│ ├── routes/
-│ ├── config/
-│ ├── .env # Environment variables (not committed)
-│ └── server.js
-├── front-end/
-│ ├── components/
-│ ├── pages/
-│ ├── services/
-│ ├── context/
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── vite.config.js
-└── README.md
-
-
 
 ---
 
@@ -80,4 +57,14 @@ Auction-Website/
 1. Navigate to the backend folder:
    ```bash
    cd back-end
+2. Run the command:
+   '''bash
+   node --watch server.js
+
+### Frontend
+
+1. Navigate to the frontend folder:
+    
+
+
 
