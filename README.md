@@ -71,4 +71,14 @@ NextBid is a full-featured **MERN stack** online auction platform where users ca
    npm run dev
 
 
+```bash
+touch .env
+```
+
+# Add the following in .env
+```bash
+MONGO_URI=mongodb://localhost:27017/
+JWT_SECRET=superSecretKey123 
+PORT=3008
+
 
