@@ -72,7 +72,7 @@ NextBid is a full-featured **MERN stack** online auction platform where users ca
 
 
 ```bash
-touch .env
+   touch .env
 ```
 
 # Add the following in .env
